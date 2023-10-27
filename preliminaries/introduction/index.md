@@ -2,14 +2,7 @@
 layout: post
 title: Introduction
 ---
-Probabilistic graphical modeling is a branch of machine learning that studies how to use probability distributions to describe the world and to make useful predictions about it.
-
-There are dozens of reasons to learn about probabilistic modeling.
-For one, it is a fascinating scientific field with a beautiful theory that bridges in surprising ways two very different branches of mathematics: probability and graph theory. Probabilistic modeling also has intriguing connections to philosophy, particularly the question of causality.
-
-At the same time, probabilistic modeling is widely used throughout machine learning and in many real-world applications. These techniques can be used to solve problems in fields as diverse as medicine, language processing, vision, and many others.
-
-This combination of elegant theory and powerful applications makes graphical models one of the most fascinating topics in modern artificial intelligence and computer science{% include sidenote.html id='note_turing' note='The 2011 Turing award (considered to be the "Nobel prize of computer science") was recently awarded to [Judea Pearl](http://amturing.acm.org/award_winners/pearl_2658896.cfm) for founding the field of probabilistic graphical modeling.' %}.
+Graph Mining is being offered this semester
 
 ## Probabilistic modeling
 
