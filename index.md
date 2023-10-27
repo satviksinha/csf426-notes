@@ -16,6 +16,8 @@ This course starts by introducing probabilistic graphical models from the very b
 2. [Review of probability theory](preliminaries/probabilityreview): Probability distributions. Conditional probability. Random variables (*under construction*).
 
 3. [Real-world applications](preliminaries/applications): Image denoising. RNA structure prediction. Syntactic analysis of sentences. Optical character recognition. Language Modeling (*under construction*).
+   
+4. [Graph Neural Networks](gnn) : Description of the course
 
 ## Representation
 
